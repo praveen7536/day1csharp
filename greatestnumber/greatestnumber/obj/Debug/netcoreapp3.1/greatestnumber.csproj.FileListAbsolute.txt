@@ -1,0 +1,13 @@
+C:\Users\PRKUMA16\source\repos\greatestnumber\greatestnumber\bin\Debug\netcoreapp3.1\greatestnumber.exe
+C:\Users\PRKUMA16\source\repos\greatestnumber\greatestnumber\bin\Debug\netcoreapp3.1\greatestnumber.deps.json
+C:\Users\PRKUMA16\source\repos\greatestnumber\greatestnumber\bin\Debug\netcoreapp3.1\greatestnumber.runtimeconfig.json
+C:\Users\PRKUMA16\source\repos\greatestnumber\greatestnumber\bin\Debug\netcoreapp3.1\greatestnumber.runtimeconfig.dev.json
+C:\Users\PRKUMA16\source\repos\greatestnumber\greatestnumber\bin\Debug\netcoreapp3.1\greatestnumber.dll
+C:\Users\PRKUMA16\source\repos\greatestnumber\greatestnumber\bin\Debug\netcoreapp3.1\greatestnumber.pdb
+C:\Users\PRKUMA16\source\repos\greatestnumber\greatestnumber\obj\Debug\netcoreapp3.1\greatestnumber.csprojAssemblyReference.cache
+C:\Users\PRKUMA16\source\repos\greatestnumber\greatestnumber\obj\Debug\netcoreapp3.1\greatestnumber.AssemblyInfoInputs.cache
+C:\Users\PRKUMA16\source\repos\greatestnumber\greatestnumber\obj\Debug\netcoreapp3.1\greatestnumber.AssemblyInfo.cs
+C:\Users\PRKUMA16\source\repos\greatestnumber\greatestnumber\obj\Debug\netcoreapp3.1\greatestnumber.csproj.CoreCompileInputs.cache
+C:\Users\PRKUMA16\source\repos\greatestnumber\greatestnumber\obj\Debug\netcoreapp3.1\greatestnumber.dll
+C:\Users\PRKUMA16\source\repos\greatestnumber\greatestnumber\obj\Debug\netcoreapp3.1\greatestnumber.pdb
+C:\Users\PRKUMA16\source\repos\greatestnumber\greatestnumber\obj\Debug\netcoreapp3.1\greatestnumber.genruntimeconfig.cache

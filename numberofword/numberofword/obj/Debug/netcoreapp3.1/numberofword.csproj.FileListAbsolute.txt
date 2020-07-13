@@ -1,0 +1,13 @@
+C:\Users\PRKUMA16\source\repos\numberofword\numberofword\bin\Debug\netcoreapp3.1\numberofword.exe
+C:\Users\PRKUMA16\source\repos\numberofword\numberofword\bin\Debug\netcoreapp3.1\numberofword.deps.json
+C:\Users\PRKUMA16\source\repos\numberofword\numberofword\bin\Debug\netcoreapp3.1\numberofword.runtimeconfig.json
+C:\Users\PRKUMA16\source\repos\numberofword\numberofword\bin\Debug\netcoreapp3.1\numberofword.runtimeconfig.dev.json
+C:\Users\PRKUMA16\source\repos\numberofword\numberofword\bin\Debug\netcoreapp3.1\numberofword.dll
+C:\Users\PRKUMA16\source\repos\numberofword\numberofword\bin\Debug\netcoreapp3.1\numberofword.pdb
+C:\Users\PRKUMA16\source\repos\numberofword\numberofword\obj\Debug\netcoreapp3.1\numberofword.csprojAssemblyReference.cache
+C:\Users\PRKUMA16\source\repos\numberofword\numberofword\obj\Debug\netcoreapp3.1\numberofword.AssemblyInfoInputs.cache
+C:\Users\PRKUMA16\source\repos\numberofword\numberofword\obj\Debug\netcoreapp3.1\numberofword.AssemblyInfo.cs
+C:\Users\PRKUMA16\source\repos\numberofword\numberofword\obj\Debug\netcoreapp3.1\numberofword.csproj.CoreCompileInputs.cache
+C:\Users\PRKUMA16\source\repos\numberofword\numberofword\obj\Debug\netcoreapp3.1\numberofword.dll
+C:\Users\PRKUMA16\source\repos\numberofword\numberofword\obj\Debug\netcoreapp3.1\numberofword.pdb
+C:\Users\PRKUMA16\source\repos\numberofword\numberofword\obj\Debug\netcoreapp3.1\numberofword.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\PRKUMA16\source\repos\number1\number1\bin\Debug\netcoreapp3.1\number1.exe
+C:\Users\PRKUMA16\source\repos\number1\number1\bin\Debug\netcoreapp3.1\number1.deps.json
+C:\Users\PRKUMA16\source\repos\number1\number1\bin\Debug\netcoreapp3.1\number1.runtimeconfig.json
+C:\Users\PRKUMA16\source\repos\number1\number1\bin\Debug\netcoreapp3.1\number1.runtimeconfig.dev.json
+C:\Users\PRKUMA16\source\repos\number1\number1\bin\Debug\netcoreapp3.1\number1.dll
+C:\Users\PRKUMA16\source\repos\number1\number1\bin\Debug\netcoreapp3.1\number1.pdb
+C:\Users\PRKUMA16\source\repos\number1\number1\obj\Debug\netcoreapp3.1\number1.AssemblyInfoInputs.cache
+C:\Users\PRKUMA16\source\repos\number1\number1\obj\Debug\netcoreapp3.1\number1.AssemblyInfo.cs
+C:\Users\PRKUMA16\source\repos\number1\number1\obj\Debug\netcoreapp3.1\number1.csproj.CoreCompileInputs.cache
+C:\Users\PRKUMA16\source\repos\number1\number1\obj\Debug\netcoreapp3.1\number1.dll
+C:\Users\PRKUMA16\source\repos\number1\number1\obj\Debug\netcoreapp3.1\number1.pdb
+C:\Users\PRKUMA16\source\repos\number1\number1\obj\Debug\netcoreapp3.1\number1.genruntimeconfig.cache
